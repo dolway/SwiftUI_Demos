@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-
 struct Dot: Identifiable {
     let id = UUID()
     let randomX: Double
